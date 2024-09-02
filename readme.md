@@ -1,0 +1,1 @@
+Imprima o objeto se existir alguém com menos 25 anos.
